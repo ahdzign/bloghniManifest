@@ -1,0 +1,38 @@
+{
+  "name": "Blog HNI",
+  "short_name": "Blog HNI",
+  "start_url": "https://bloghni.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Halal Mart - Halal is My Way",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s48/logohni512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s72/logohni512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s96/logohni512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s144/logohni512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s168/logohni512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s192/logohni512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BorMzes0OPk/Xx5RPJaNX2I/AAAAAAAAF1g/q0z-KfgfztIUNpXsEBQrQxKp0f-aFZ7fgCLcBGAsYHQ/s512/logohni512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
